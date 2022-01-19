@@ -26,6 +26,9 @@ Above AUC & ROC graph shows the compared results of different fitted models
 ## Files : 
 
 Assignment_Data_Scientis.ipynb : Consist of all steps following EDA, Feature Selection and model building. This also includes predictions on test data
+
 requirements.txt : Includes the required libraries
+
 results.csv : Predicted results for test data
+
 performance_results.json : Perfomance metrics for all models 
